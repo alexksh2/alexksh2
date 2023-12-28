@@ -16,7 +16,7 @@ I am Alex Khoo Shien How, a Year 2 undergraduate scholar currently studying **Do
     <img src="https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
     <img src="https://img.shields.io/badge/r-grey?style=for-the-badge&logo=r&logoColor=lightblue" alt="R Badge"/>
     <img src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=red" alt="Java Badge"/>
-    <img src="https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c&logoColor=lightred" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c&logoColor=white" alt="Java Badge"/>
     <img src="https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=c++&logoColor=lightred" alt="Java Badge"/>
 </div>
 
