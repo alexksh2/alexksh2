@@ -1,14 +1,14 @@
 # Hi there 👋
 
-## Interests
+### Interests
 - Deep Learning
 - Machine Learning
 - Web Development
 
 
 
-## GitHub Stats
+### GitHub Stats
 
-## Programming Languages
+### Programming Languages
 
-## Frameworks
+### Frameworks
