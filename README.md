@@ -11,6 +11,15 @@ I am Alex Khoo Shien How, a Year 2 undergraduate scholar currently studying **Do
 ### GitHub Stats
 
 ### Programming Languages
+<div id="badges">
+    <img src="https://img.shields.io/badge/Javascript?style=for-the-badge&logo=javascript" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+</div>
 
 ### Frameworks
 
