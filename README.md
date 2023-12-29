@@ -15,7 +15,6 @@ I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double D
 
 ## GitHub Stats
 
-| Cat pics                                                                                                                                                    | Dog pics                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexksh2&theme=tokyonight)](https://github.com/alexksh2/github-readme-stats)  |  [![GitHub Streak](https://streak-stats.demolab.com/?user=alexksh2)](https://git.io/streak-stats) | 
 
