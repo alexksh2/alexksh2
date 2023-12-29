@@ -11,6 +11,8 @@ I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double D
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexksh2&theme=tokyonight)](https://github.com/alexksh2/github-readme-stats)
 
+<!--https://github.com/anuraghazra/github-readme-stats-->
+
 ### Programming Languages
 <div id="badges">
     <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript" alt="Javascript Badge"/>
@@ -20,6 +22,7 @@ I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double D
     <img src="https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
     <img src="https://img.shields.io/badge/-c++-grey?style=for-the-badge&logo=c%2B%2B" alt="C++ Badge"/>
 </div>
+
 
 ### Frameworks
 
