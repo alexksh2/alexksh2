@@ -14,8 +14,7 @@ I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double D
 
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexksh2&theme=tokyonight)](https://github.com/alexksh2/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alexksh2)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexksh2&theme=tokyonight)](https://github.com/alexksh2/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com/?user=alexksh2)](https://git.io/streak-stats)
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
 ## Programming Languages
