@@ -9,6 +9,7 @@ I am Alex Khoo Shien How, a Year 2 undergraduate scholar currently studying **Do
 
 
 ### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexksh2)](https://github.com/alexksh2/github-readme-stats)
 
 ### Programming Languages
 <div id="badges">
