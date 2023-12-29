@@ -1,6 +1,9 @@
 # Welcome to my GitHub Profile 👋
 I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double Degree in Computer Science and Business (specialising in Business)** at Nanyang Technological University. 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman+Bold+Bold+Bold&weight=900&pause=1000&color=170F76DC&random=false&width=435&lines=I'm+An+AI+Engineer!;I'm+A+Machine+Learning+Engineer!;I'm+A+Software+Engineer!;I'm+A+Business+Analyst!)](https://git.io/typing-svg)
+
+
 ### Interests
 - Deep Learning
 - Machine Learning
