@@ -3,6 +3,8 @@ I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double D
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman+Bold+Bold+Bold&weight=900&pause=1000&color=170F76DC&random=false&width=435&lines=I'm+An+AI+Engineer!;I'm+A+Machine+Learning+Engineer!;I'm+A+Software+Engineer!;I'm+A+Business+Analyst!)](https://git.io/typing-svg)
 
+<!--https://readme-typing-svg.demolab.com/demo/-->
+<!--https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9-->
 
 ### Interests
 - Deep Learning
@@ -26,6 +28,7 @@ I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double D
     <img src="https://img.shields.io/badge/-c++-grey?style=for-the-badge&logo=c%2B%2B" alt="C++ Badge"/>
 </div>
 
+<!--https://stackoverflow.com/questions/64630394/c-logo-from-img-shields-->
 
 ### Frameworks
 
