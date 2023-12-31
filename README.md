@@ -38,7 +38,7 @@ I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double D
 
 ## Software
 <div id="badges">
-    <img src="https://img.shields.io/badge/tableau-grey?style=for-the-badge&logo=tableau" alt="Javascript Badge"/>
+    <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau" alt="Javascript Badge"/>
 </div>
 
 
