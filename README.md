@@ -33,7 +33,7 @@ I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double D
     <img src="https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
     <img src="https://img.shields.io/badge/-c++-grey?style=for-the-badge&logo=c%2B%2B" alt="C++ Badge"/>
     <img src="https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=white" alt="R Badge"/>
-    <img src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=red" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white" alt="Java Badge"/>
 </div>
 
 <!--https://stackoverflow.com/questions/64630394/c-logo-from-img-shields-->
