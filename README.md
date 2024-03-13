@@ -50,7 +50,7 @@ I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double D
 
 ## Contact Me
 <div id="badges">
-  <!--<a href="https://www.linkedin.com/in/alex-khoo-shien-how/">-->
+  <a href="https://www.linkedin.com/in/alex-khoo-shien-how/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
