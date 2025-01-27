@@ -7,9 +7,10 @@ I am Alex Khoo Shien How, an undergraduate scholar currently studying **Double D
 <!--https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9-->
 
 ## Interests
+- Quantitative Finance
 - Deep Learning
 - Machine Learning
-- Web Development
+
 
 
 
