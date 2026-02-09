@@ -4,14 +4,15 @@ I am **Alex Khoo Shien How**, a Double Degree scholar in **Computer Science (AI)
 
 **ASEAN Undergraduate Scholar | NTU-Google Career Scholar**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman+Bold+Bold+Bold&weight=900&pause=1000&color=170F76DC&random=false&width=435&lines=AI+%26+Machine+Learning+Engineer;Quantitative+Finance+%26+Trading;Full-Stack+ML+%26+MLOps;Business+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman+Bold+Bold+Bold&weight=900&pause=1000&color=FFFFFF&random=false&width=435&lines=AI+%26+Machine+Learning+Engineer;Quantitative+Finance+%26+Trading;Full-Stack+ML+%26+MLOps;Business+Analyst)](https://git.io/typing-svg)
 
 
 ## GitHub Stats
 
-|                                                                                                                                                             |                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexksh2&theme=tokyonight)](https://github.com/alexksh2/github-readme-stats)  | [![GitHub Streak](https://streak-stats.demolab.com/?user=alexksh2)](https://git.io/streak-stats) |
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexksh2&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=alexksh2&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ## Programming Languages
 <div id="badges">
