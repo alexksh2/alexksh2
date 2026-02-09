@@ -2,7 +2,7 @@
 
 I am **Alex Khoo Shien How**, a Double Degree scholar in **Computer Science (AI)** and **Business (Business Analytics)** at Nanyang Technological University, Singapore.
 
-**ASEAN Undergraduate Scholar | NTU-Google Career Scholar**
+**ASEAN Undergraduate Scholar | NTU-Google Career Scholar | Canada ASEAN-SEED Scholar**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman+Bold+Bold+Bold&weight=900&pause=1000&color=FFFFFF&random=false&width=435&lines=AI+%26+Machine+Learning+Engineer;Quantitative+Finance+%26+Trading;Full-Stack+ML+%26+MLOps;Business+Analyst)](https://git.io/typing-svg)
 
