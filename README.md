@@ -10,7 +10,6 @@ I am **Alex Khoo Shien How**, a Double Degree scholar in **Computer Science (AI)
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexksh2&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://streak-stats.demolab.com/?user=alexksh2&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
